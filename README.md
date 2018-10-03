@@ -7,6 +7,9 @@ EOSIO JSON RPC Wrapper
 ## Install
 
 ```python
+pip install pyeosio
+
+# OR
 git clone https://github.com/psy2848048/pyeosio.git
 python3 setup.py install
 ```
