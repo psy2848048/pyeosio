@@ -24,7 +24,7 @@ pyeosio.suite.push_action("bryanrhee", "recorddata", "bryanrhee", "active", {"co
 ## ToDo
 
 1. Suites
-  1. push_actions
-  1. get_table_rows
+   1. push_actions
+   1. get_table_rows
 1. Add test
 1. Travis-ci integration
