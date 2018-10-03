@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pyeosio',
-      version='0.1.0',
+      version='0.1.1',
       description='EOSIO node connector for Python',
       url='https://github.com/psy2848048/pyeosio',
       author='Junhang (Bryan) RHEE',
