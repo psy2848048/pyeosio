@@ -26,6 +26,8 @@ pyeosio.suite.push_action("bryanrhee", "recorddata", "bryanrhee", "active", {"co
 
 ## ToDo
 
+1. Sign Tx: Include Node.js's eosjs-ecc & wrapping
+1. Secure storage of password & private key
 1. Suites
    1. push_actions
    1. get_table_rows
